@@ -23,15 +23,6 @@ O sistema permite calcular o valor mensal do aluguel de apartamentos, casas e es
 * Programação Orientada a Objetos (POO)
 * Biblioteca CSV
 
-## Estrutura do Projeto
-
-```text
-orcamento-imobiliaria-rm/
-│
-├── orcamento_imobiliaria.py
-├── parcelas.csv
-├── README.md
-└── Fluxograma.pdf
 ```
 
 ## Classes Utilizadas
